@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ngick-chat-app/static/css/main.9e315ba8.css",
+    "main.js": "/ngick-chat-app/static/js/main.ea5712bb.js",
+    "static/js/453.ac0634c6.chunk.js": "/ngick-chat-app/static/js/453.ac0634c6.chunk.js",
+    "index.html": "/ngick-chat-app/index.html",
+    "main.9e315ba8.css.map": "/ngick-chat-app/static/css/main.9e315ba8.css.map",
+    "main.ea5712bb.js.map": "/ngick-chat-app/static/js/main.ea5712bb.js.map",
+    "453.ac0634c6.chunk.js.map": "/ngick-chat-app/static/js/453.ac0634c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e315ba8.css",
+    "static/js/main.ea5712bb.js"
+  ]
+}
