@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ngick-chat-app/static/css/main.9e315ba8.css",
-    "main.js": "/ngick-chat-app/static/js/main.ea5712bb.js",
-    "static/js/453.ac0634c6.chunk.js": "/ngick-chat-app/static/js/453.ac0634c6.chunk.js",
-    "index.html": "/ngick-chat-app/index.html",
-    "main.9e315ba8.css.map": "/ngick-chat-app/static/css/main.9e315ba8.css.map",
-    "main.ea5712bb.js.map": "/ngick-chat-app/static/js/main.ea5712bb.js.map",
-    "453.ac0634c6.chunk.js.map": "/ngick-chat-app/static/js/453.ac0634c6.chunk.js.map"
+    "main.css": "/react-chat-app/static/css/main.9e315ba8.css",
+    "main.js": "/react-chat-app/static/js/main.d6c03378.js",
+    "static/js/453.ac0634c6.chunk.js": "/react-chat-app/static/js/453.ac0634c6.chunk.js",
+    "index.html": "/react-chat-app/index.html",
+    "main.9e315ba8.css.map": "/react-chat-app/static/css/main.9e315ba8.css.map",
+    "main.d6c03378.js.map": "/react-chat-app/static/js/main.d6c03378.js.map",
+    "453.ac0634c6.chunk.js.map": "/react-chat-app/static/js/453.ac0634c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e315ba8.css",
-    "static/js/main.ea5712bb.js"
+    "static/js/main.d6c03378.js"
   ]
 }
